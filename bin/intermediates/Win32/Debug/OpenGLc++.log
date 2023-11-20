@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(D:\Cherno\OpenGLc++\bin\intermediates\Win32\Debug\)包含从另一个项目(AddAsssimp.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+Application.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall Model::~Model(void)" (??1Model@@QAE@XZ)，函数 _main 中引用了该符号
+D:\Cherno\OpenGLc++\\bin\Win32\Debug\OpenGLc++.exe : fatal error LNK1120: 1 个无法解析的外部命令
